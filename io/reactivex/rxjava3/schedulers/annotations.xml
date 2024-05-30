@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='io.reactivex.rxjava3.schedulers.Schedulers io.reactivex.rxjava3.core.Scheduler computation()'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
